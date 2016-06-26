@@ -1,0 +1,15 @@
+{
+  "name": "make-sprite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promisify": "^4.1.0",
+    "fs-extra": "^0.30.0"
+  }
+}
